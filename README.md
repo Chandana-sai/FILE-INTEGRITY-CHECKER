@@ -195,6 +195,10 @@ This project is licensed under the MIT License. You are free to use, modify, and
 🤝 Contributions
 Contributions are welcome! If you have suggestions, bug reports, or improvements, feel free to open an issue or submit a pull request.
 
+OUTPUT :
+
+![Image](https://github.com/user-attachments/assets/11a86613-b3bb-4cc2-97c2-02c17c9e6f40)
+
 
 
 
